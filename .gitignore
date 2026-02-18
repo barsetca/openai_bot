@@ -48,3 +48,6 @@ token_usage.db
 *.log
 .DS_Store
 Thumbs.db
+
+# Users files
+check_list.md
